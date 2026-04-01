@@ -18,6 +18,7 @@ LinkedIn: [Link](https://www.linkedin.com/in/zihao-huang-b7578b200/)
 **Research Intern**, [*Edelman DXI*](https://www.edelman.com/expertise/research-data-analytics) (Sep 2022 – Dec 2022, Shanghai · On-site)  
   Supported public opinion monitoring and industry research.  
 
+<p></p>
 
 #### Publications
 **Zihao Huang**, Junyi Li, Junbo Tong, Paula Regalado, Yong Sun, *et al.*  
