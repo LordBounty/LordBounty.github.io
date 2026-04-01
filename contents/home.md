@@ -18,15 +18,14 @@ LinkedIn: [Link](https://www.linkedin.com/in/zihao-huang-b7578b200/)
 **Research Intern**, [*Edelman DXI*](https://www.edelman.com/expertise/research-data-analytics) (Sep 2022 – Dec 2022, Shanghai · On-site)  
   Supported public opinion monitoring and industry research.  
 
-<p></p>
 
 #### Publications
 **Zihao Huang**, Junyi Li, Junbo Tong, Paula Regalado, Yong Sun, *et al.*  
 *Advances in the Formation of Flavor Quality and Precise Maturity Assessment in Loquat: Volatile Aroma Evolution, Biomarker Discovery, and Integration with Non-destructive Sensing*  
-*Modern Food Science and Technology*, accepted, in press.
+*Modern Food Science and Technology* (accepted, in press)
 
 #### Manuscripts
 **Zihao Huang**, Gabriela Ferraro, Safiya Okai-Ugbaje, Anthony Tang, Josh Andres  
 *Co-Teleological Interaction: Designing Generative AI for Process-Oriented Collaborative Knowledge Work*  
-Submitted manuscript.
+(Submitted manuscript)
 
