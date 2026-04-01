@@ -19,6 +19,13 @@ LinkedIn: [Link](https://www.linkedin.com/in/zihao-huang-b7578b200/)
   Supported public opinion monitoring and industry research.  
 
 
-#### Interests
-Designing more inclusive interactive systems, Exploring diverse application scenarios of Generative AI
+#### Publications
+**Zihao Huang**, Junyi Li, Junbo Tong, Paula Regalado, Yong Sun, *et al.*  
+*Advances in the Formation of Flavor Quality and Precise Maturity Assessment in Loquat: Volatile Aroma Evolution, Biomarker Discovery, and Integration with Non-destructive Sensing*  
+*Modern Food Science and Technology*, accepted, in press.
+
+#### Manuscripts
+**Zihao Huang**, Gabriela Ferraro, Safiya Okai-Ugbaje, Anthony Tang, Josh Andres  
+*Co-Teleological Interaction: Designing Generative AI for Process-Oriented Collaborative Knowledge Work*  
+Submitted manuscript.
 
