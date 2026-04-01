@@ -20,7 +20,7 @@ LinkedIn: [Link](https://www.linkedin.com/in/zihao-huang-b7578b200/)
 
 
 #### Publications
-**Zihao Huang**, Junyi Li, Junbo Tong, Paula Regalado, Yong Sun, *et al.*  
+Junyi Li, Junbo Tong, **Zihao Huang**, Paula Regalado, Yong Sun, *et al.*  
 *Advances in the Formation of Flavor Quality and Precise Maturity Assessment in Loquat: Volatile Aroma Evolution, Biomarker Discovery, and Integration with Non-destructive Sensing*  
 *Modern Food Science and Technology* (accepted, in press)
 
